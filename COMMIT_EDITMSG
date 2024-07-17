@@ -1,0 +1,125 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   _redirects
+#	new file:   assets/css/animated.css
+#	new file:   assets/css/fontawesome.css
+#	new file:   assets/css/owl.css
+#	new file:   assets/css/templatemo-digimedia-v1.css
+#	new file:   assets/css/templatemo-digimedia-v2.css
+#	new file:   assets/css/templatemo-digimedia-v3.css
+#	new file:   assets/fonts/Flaticon.woff
+#	new file:   assets/fonts/FontAwesome.otf
+#	new file:   assets/fonts/flexslider-icon.eot
+#	new file:   assets/fonts/flexslider-icon.svg
+#	new file:   assets/fonts/flexslider-icon.ttf
+#	new file:   assets/fonts/flexslider-icon.woff
+#	new file:   assets/fonts/font.css
+#	new file:   assets/fonts/fontawesome-webfont.eot
+#	new file:   assets/fonts/fontawesome-webfont.svg
+#	new file:   assets/fonts/fontawesome-webfont.ttf
+#	new file:   assets/fonts/fontawesome-webfont.woff
+#	new file:   assets/fonts/fontawesome-webfont.woff2
+#	new file:   assets/fonts/slick.eot
+#	new file:   assets/fonts/slick.svg
+#	new file:   assets/fonts/slick.ttf
+#	new file:   assets/fonts/slick.woff
+#	new file:   assets/images/10292067.png
+#	new file:   assets/images/about-dec-v2.png
+#	new file:   assets/images/about-dec-v3.png
+#	new file:   assets/images/about-dec.png
+#	new file:   assets/images/about-right-dec.jpg
+#	new file:   assets/images/author-post.jpg
+#	new file:   assets/images/blog-left-dec.jpg
+#	new file:   assets/images/blog-post-01.jpg
+#	new file:   assets/images/blog-post-02.jpg
+#	new file:   assets/images/blog-post-03.jpg
+#	new file:   assets/images/blog-post-04.jpg
+#	new file:   assets/images/cnsa.png
+#	new file:   assets/images/cnsa2-removebg-preview (1).png
+#	new file:   assets/images/cnsa2.png
+#	new file:   assets/images/contact-bottom-right-v2.png
+#	new file:   assets/images/contact-bottom-right-v3.png
+#	new file:   assets/images/contact-bottom-right.png
+#	new file:   assets/images/contact-dec-v2.png
+#	new file:   assets/images/contact-dec-v3.png
+#	new file:   assets/images/contact-dec.png
+#	new file:   assets/images/contact-top-right-v2.png
+#	new file:   assets/images/contact-top-right-v3.png
+#	new file:   assets/images/contact-top-right.png
+#	new file:   assets/images/demo-1.jpg
+#	new file:   assets/images/demo-2.jpg
+#	new file:   assets/images/demo-3.jpg
+#	new file:   assets/images/email-icon.png
+#	new file:   assets/images/footer-bg-v2.jpg
+#	new file:   assets/images/footer-bg-v3.jpg
+#	new file:   assets/images/footer-bg.jpg
+#	new file:   assets/images/location-icon.png
+#	new file:   assets/images/logo-v1.png
+#	new file:   assets/images/logo-v2.png
+#	new file:   assets/images/logo-v3.png
+#	new file:   assets/images/phone-icon.png
+#	new file:   assets/images/portfolio-01.jpg
+#	new file:   assets/images/portfolio-02.jpg
+#	new file:   assets/images/portfolio-03.jpg
+#	new file:   assets/images/portfolio-04.jpg
+#	new file:   assets/images/portfolio-left-dec.jpg
+#	new file:   assets/images/portfolio-right-dec.jpg
+#	new file:   assets/images/quote-bg-v2.jpg
+#	new file:   assets/images/quote-bg-v3.jpg
+#	new file:   assets/images/quote-bg.jpg
+#	new file:   assets/images/service-icon-01.png
+#	new file:   assets/images/service-icon-02.png
+#	new file:   assets/images/service-icon-03.png
+#	new file:   assets/images/service-icon-04.png
+#	new file:   assets/images/services-image-02.jpg
+#	new file:   assets/images/services-image-03.jpg
+#	new file:   assets/images/services-image-04.jpg
+#	new file:   assets/images/services-image.jpg
+#	new file:   assets/images/services-left-dec.jpg
+#	new file:   assets/images/services-right-dec.jpg
+#	new file:   assets/images/slider-dec-v2.png
+#	new file:   assets/images/slider-dec-v3.png
+#	new file:   assets/images/slider-dec.png
+#	new file:   assets/images/slider-left-dec.jpg
+#	new file:   assets/images/slider-right-dec.jpg
+#	new file:   "assets/images/\354\236\254\355\230\204 \354\226\274\352\265\264.png"
+#	new file:   assets/js/animation.js
+#	new file:   assets/js/custom.js
+#	new file:   assets/js/imagesloaded.js
+#	new file:   assets/js/isotope.js
+#	new file:   assets/js/owl-carousel.js
+#	new file:   assets/js/tabs.js
+#	new file:   index.html
+#	new file:   netlify.toml
+#	new file:   test.html
+#	new file:   vendor/bootstrap/css/bootstrap.min.css
+#	new file:   vendor/bootstrap/css/bootstrap.min.css.map
+#	new file:   vendor/bootstrap/js/bootstrap.bundle.min.js
+#	new file:   vendor/bootstrap/js/bootstrap.bundle.min.js.map
+#	new file:   vendor/bootstrap/js/bootstrap.min.js
+#	new file:   vendor/jquery/jquery.js
+#	new file:   vendor/jquery/jquery.min.js
+#	new file:   vendor/jquery/jquery.min.map
+#	new file:   vendor/jquery/jquery.slim.js
+#	new file:   vendor/jquery/jquery.slim.min.js
+#	new file:   vendor/jquery/jquery.slim.min.map
+#
+# Changes not staged for commit:
+#	deleted:    assets/images/10292067.png
+#	deleted:    assets/images/cnsa.png
+#	deleted:    assets/images/cnsa2-removebg-preview (1).png
+#	deleted:    assets/images/cnsa2.png
+#	modified:   index.html
+#	deleted:    test.html
+#
+# Untracked files:
+#	assets/images/1721226770363.jpg
+#	assets/images/1721226782813.png
+#
